@@ -9,19 +9,22 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### 🙋‍♂️ Good to see you<br/>
+  #### 🙋‍♂️ 프론트엔드 개발자 wjddlfrb131입니다.<br/>
+  #### 🌱 다양한 기술을 실험하고 성장하는 과정을 즐깁니다.<br/>
+  #### 🛠 직접 만드는 것에 흥미가 많고, 사용자 경험을 고려한 기술적 선택에 집중합니다.
   <br/>
   <br/>
   
   ## 🧱 Tech Stack
 
   ### Language
-  <img src="https://img.shields.io/badge/Java-007396.svg?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120.svg?style=flat-square&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396.svg?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120.svg?style=flat-square&logo=c-sharp&logoColor=white"/>
   <br/>
 
   ### Framework / Library
@@ -31,11 +34,16 @@
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=flat-square&logo=Matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=Zustand&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React Quill-2f2f2f?style=flat-square&logoColor=white"/>
   <br/>
 
   ### Style & UI
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4.svg?style=flat-square&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=ffd35b"/>
+  <img src="https://img.shields.io/badge/vanilla--extract-5e3ef2?style=flat-square&logo=css3&logoColor=white"/>
   <br/>
 
   ### Cloud & Tools
@@ -49,10 +57,8 @@
   <br/>
   
   ## 📚 Studying
-  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
   <br/>
   <br/>
 
@@ -73,4 +79,10 @@
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=flat-square&logo=velog&logoColor=white" />
   </a>
   <a href="mailto:wjddlfrb131@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="mailto:wjddlfrb131@naver.com">
+    <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white"/>
+  </a>
+
+</div>
