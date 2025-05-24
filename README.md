@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-<!--   <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" /> -->
+  <h1>Hi 👋 I'm wjddlfrb131</h1>
 </div>
 
 <!--내용 부분-->
@@ -54,18 +54,35 @@
 <div align="center">
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
-<!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
+</div>
+
+<br>
+
+<h3 align="center">📈 GitHub Stats 📈</h3>
+<div align="center">
+  <!-- 언어 사용 비율 (퍼센티지는 수정 가능) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjddlfrb131&layout=compact&langs_count=6&theme=radical" />
+</div>
+
+<br>
+
+<h3 align="center">🏅 Baekjoon Tier 🏅</h3>
+<div align="center">
+  <!-- 백준 티어 -->
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=wjddlfrb131" alt="baekjoon tier"/>
 </div>
 
 <br>
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://velog.io/@oka1313">
+  <a href="https://velog.io/@wjddlfrb131/posts">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
-  <a href="mailto:oka1313@gmail.com">
-<!--     <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp -->
+  <a href="mailto:wjddlfrb131@gmail.com">
+    <img src="https://img.shields.io/badge/wjddlfrb131@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp
+  </a>
+  <a href="mailto:wjddlfrb131@naver.com">
+    <img src="https://img.shields.io/badge/wjddlfrb131@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white" />&nbsp
   </a>
 </div>
