@@ -9,7 +9,7 @@
   <!--Body-->
   
   ## 👀 About Me
-- 👋 My name is **Ilkyu Jeong**, and I'm from South Korea.  
+- 👋 My name is **Ilgyu Jung**, and I'm from South Korea.  
   <br/>
   <br/>
   
