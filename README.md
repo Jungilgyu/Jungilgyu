@@ -10,8 +10,6 @@
   
   ## 👀 About Me
 - 👋 My name is **Ilkyu Jeong**, and I'm from South Korea.  
-- 🧑‍💻 I mainly work as a **frontend developer**, but I aim to become a **full-stack developer**. I'm currently studying backend and infrastructure technologies.  
-- 🚀 I enjoy experimenting with new technologies and always strive to improve user experience through thoughtful technical decisions.
   <br/>
   <br/>
   
