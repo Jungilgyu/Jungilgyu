@@ -9,9 +9,9 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### 🙋‍♂️ 프론트엔드 개발자 wjddlfrb131입니다.<br/>
-  #### 🌱 다양한 기술을 실험하고 성장하는 과정을 즐깁니다.<br/>
-  #### 🛠 직접 만드는 것에 흥미가 많고, 사용자 경험을 고려한 기술적 선택에 집중합니다.
+- 👋 My name is **Ilkyu Jeong**, and I'm from South Korea.  
+- 🧑‍💻 I mainly work as a **frontend developer**, but I aim to become a **full-stack developer**. I'm currently studying backend and infrastructure technologies.  
+- 🚀 I enjoy experimenting with new technologies and always strive to improve user experience through thoughtful technical decisions.
   <br/>
   <br/>
   
@@ -63,9 +63,9 @@
   <br/>
 
   ## 🤔 GitHub Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjddlfrb131&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jungilgyu&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjddlfrb131&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jungilgyu&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
   <br/>
 
